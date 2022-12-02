@@ -1,6 +1,6 @@
 👋 Hi, I’m @Maxrainyx
 🌱 I’m currently learning Python at SkiiFactory, INTPY. Gonna be a developer 😎
-You can reach me using e-mail: maxrainy@gmail.com, telegram: @maxrainy or lenkedin: linkedin.com/in/maxrainy/
+You can reach me using e-mail: maxrainy@gmail.com, telegram: @maxrainy or LinkedIn: linkedin.com/in/maxrainy/
 
 <!---
 Maxrainyx/Maxrainyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
