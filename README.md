@@ -1,5 +1,5 @@
 👋 Hi, I’m @Maxrainyx
-🌱 I’m currently learning Python at SkiiFactory, INTPY. Gonna be a developer 😎
+🌱 I’m currently learning Python at SkiiFactory, INTPY. I'm going to be a developer 😎
 You can reach me using e-mail: maxrainy@gmail.com, telegram: @maxrainy or LinkedIn: linkedin.com/in/maxrainy/
 
 <!---
