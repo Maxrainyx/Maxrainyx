@@ -1,5 +1,5 @@
 👋 Hi, I’m @Maxrainyx
-🌱 I’m currently learning Python at SkillFactory, INTPY. I'm going to be a developer 😎
+<p>🌱 I’m currently learning Python at SkillFactory, INTPY. I'm going to be a developer 😎</p>
 <p>Feel free reach me through:</p> <p>e-mail: maxrainy@gmail.com</p> <p>telegram: @maxrainy</> <p>or LinkedIn: linkedin.com/in/maxrainy/ </p>
 <p>I speak in three languages: English, Ukrainian and Russian. But there are translators into [or from] other languages around. </p>
 
