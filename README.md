@@ -4,7 +4,7 @@
 <p> e-mail: maxrainy@gmail.com </p>
 <p> telegram: @maxrainy </p>
 <p> or LinkedIn: linkedin.com/in/maxrainy/ </p>
-<p> I speak three languages: English, Ukrainian and Russian. Moreover, there are translators into [or from] other languages around. </p>
+<p> I speak three languages: English, Ukrainian and Russian.</p>
 
 <!---
 Maxrainyx/Maxrainyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
