@@ -1,7 +1,7 @@
 👋 Hi, I’m @Maxrainyx
 <p> 🌱 I've gratuated from Python course at SkillFactory, INTPY. Now I'm a Python developer and looking for new opportunities 😎</p>
 <p> Feel free to reach me for any questions through: </p>
-<p> e-mail: maxrainy@gmail.com </p>
+<p><a href="mailto:maxrainy@gmail.com">E-mail</a></p>
 <a href='https://t.me/maxrainy'>Telegram</a>
 <p>or</p>
 <a href='https://www.linkedin.com/in/maxrainy/'>LinkedIn</a>
