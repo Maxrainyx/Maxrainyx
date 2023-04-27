@@ -3,7 +3,7 @@
 <p> Feel free to reach me for any questions through: </p>
 <p> e-mail: maxrainy@gmail.com </p>
 <a href='https://t.me/maxrainy'>Telegram</a>
-<a>or</a>
+<p>or</p>
 <a href='https://www.linkedin.com/in/maxrainy/'>LinkedIn</a>
 <p> I speak three languages: English, Ukrainian and Russian.</p>
 
